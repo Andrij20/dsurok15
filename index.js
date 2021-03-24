@@ -1,1 +1,1 @@
-let name = prompt("Ваше имя?");
+let name = prompt("Ваше имя?")
